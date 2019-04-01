@@ -15,7 +15,7 @@ namespace BibleApp.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "A Bible Verse app created by Jackie.";
+            ViewBag.Message = "A Bible Verse app created by Jackie Adair for CST-247.";
 
             return View();
         }
